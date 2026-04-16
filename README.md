@@ -2,7 +2,6 @@
 
 <div align="center"> <a href="https://github.com/niko-banever-tech"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" align="center"></a> </div
 
-<br>
 ## 🌸 About me
 
 ### **I'm a 16 year old beginner programmer from Connecticut with an interest in programming, game development, cyber security, indie games, and tech in general!**
