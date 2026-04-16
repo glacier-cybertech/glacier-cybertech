@@ -1,5 +1,5 @@
 
-<div align="left"> <span style="font-size: 3em" align="center"> Hello, I'm Glacier! 💡<img src="https://media.tenor.com/8QTiEfTe1RoAAAAj/niko-oneshot.gif" width="50px""> </span> </div>
+<div align="left"> <span style="font-size: 3em" align="center"> Hello, I'm Glacier! 💡<img src="https://media.tenor.com/8QTiEfTe1RoAAAAj/niko-oneshot.gif" width="30px""> </span> </div>
 
 <a href="https://github.com/niko-banever-tech"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
