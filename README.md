@@ -28,3 +28,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niko-banever-tech&theme=ambient_gradient&bg_color=0,e74351,4348e6&border_color=ffffff&border_radius=20)
 
 </div>
+
+<img src="https://i.imgur.com/DLoG1Sk.png" width="100%" height="20%"> 
