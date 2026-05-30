@@ -23,9 +23,8 @@
 <div align="center">
 
 <a href="https://github.com/glacier-cybertech"><img src="https://i.imgur.com/mM8PhKb.gif"></a>
-
-![Glaciers's github stats](https://github-readme-stats.vercel.app/api?username=glacier-cybertech&show_icons=true&theme=ambient_gradient&bg_color=0,e74351,4348e6&border_color=ffffff&border_radius=20)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glacier-cybertech&theme=ambient_gradient&bg_color=0,e74351,4348e6&border_color=ffffff&border_radius=20)
+![Glaciers's github stats](https://github-readme-stats-fast.vercel.app/api?username=glacier-cybertech&show_icons=true&bg_color=0,e74351,4348e6&border_color=ffffff&border_radius=20&text_color=ffffff)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=glacier-cybertech&bg_color=0,e74351,4348e6&border_color=ffffff&border_radius=20&text_color=ffffff)
 
 </div>
 
