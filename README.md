@@ -17,6 +17,10 @@
 * **💻 Cyber Security**
 * **🔎 Reverse Engineering**
 
+## 🔊 My blog
+you can find my blog here >o<
+https://glacier-cybertech.github.io/
+
 ## 📝 My progress
 ### **I will be using this github to host my website where I hope to write a blog documenting my progression and journey through learning cyber security and everything tech related that interests me!**
 
